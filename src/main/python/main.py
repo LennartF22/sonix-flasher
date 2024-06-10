@@ -52,6 +52,7 @@ DEVICE_DESC = {
     (0x0C45, 0x8513): "Sharkoon",
     (0x320f, 0x5013): "Akko",
     (0x320f, 0x5041): "Designed By GG",
+    (0x320f, 0x511D): "Montech MKey",
     (0x3299, 0x4E58): "SPCGear",
     (0x3299, 0x4E5B): "SPCGear",
     (0x3434, 0xfe00): "Keychron K1 ANSI",
